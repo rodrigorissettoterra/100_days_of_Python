@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td style="width: 5.17997%; text-align: center;">2</td>
-<td style="width: 10.3599%; text-align: center;">13/12/2023</td>
+<td style="width: 10.3599%; text-align: center;">12/12/2023</td>
 <td style="width: 8.42847%; text-align: center;">DONE</td>
 <td style="width: 14.0473%; text-align: center;">Getting to know your project</td>
 <td style="width: 61.9842%;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb</https:</a></td>
