@@ -42,9 +42,9 @@
 </tr>
 <tr>
 <td style="width: 5.17997%; text-align: center;">5</td>
-<td style="width: 10.3599%; text-align: center;">16/12/2023</td>
-<td style="width: 8.42847%; text-align: center;"></td>
-<td style="width: 14.0473%; text-align: center;"></td>
+<td style="width: 10.3599%; text-align: center;">12/12/2023</td>
+<td style="width: 8.42847%; text-align: center;">DONE</td>
+<td style="width: 14.0473%; text-align: center;">"Which character are you?" Generator</td>
 <td style="width: 61.9842%;"></td>
 </tr>
 <tr>
