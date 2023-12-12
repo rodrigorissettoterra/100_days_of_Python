@@ -45,7 +45,7 @@
 <td style="width: 10.3599%; text-align: center;">12/12/2023</td>
 <td style="width: 8.42847%; text-align: center;">DONE</td>
 <td style="width: 14.0473%; text-align: center;">"Which character are you?" Generator</td>
-<td style="width: 61.9842%;"></td>
+<td style="width: 61.9842%;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb"_blank" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb</a></td>
 </tr>
 <tr>
 <td style="width: 5.17997%; text-align: center;">6</td>
