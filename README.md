@@ -12,95 +12,95 @@
  	<li>Day 7 - <strong>Fake Fan Question Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb</em></span></a></li>
  	<li>Day 8 - <strong>Affirmations (or insults) Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb</em></span></a></li>
  	<li>Day 9 - <strong>Generation Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb</em></span></a></li>
- 	<li>Day 10 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 11 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 12 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 13 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 14 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 15 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 16 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 17 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 18 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 19 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 20 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 21 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 22 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 23 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 24 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 25 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 26 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 27 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 28 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 29 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 30 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 31 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 32 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 33 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 34 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 35 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 36 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 37 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 38 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 39 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 40 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 41 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 42 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 43 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 44 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 45 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 46 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 47 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 48 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 49 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 50 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 51 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 52 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 53 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 54 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 55 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 56 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 57 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 58 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 59 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 60 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 61 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 62 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 63 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 64 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 65 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 66 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 67 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 68 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 69 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 70 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 71 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 72 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 73 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 74 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 75 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 76 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 77 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 78 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 79 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 80 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 81 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 82 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 83 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 84 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 85 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 86 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 87 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 88 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 89 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 90 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 91 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 92 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 93 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 94 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 95 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 96 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 97 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 98 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 99 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
- 	<li>Day 100 - - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 10 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 11 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 12 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 13 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 14 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 15 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 16 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 17 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 18 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 19 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 20 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 21 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 22 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 23 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 24 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 25 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 26 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 27 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 28 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 29 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 30 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 31 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 32 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 33 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 34 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 35 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 36 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 37 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 38 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 39 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 40 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 41 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 42 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 43 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 44 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 45 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 46 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 47 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 48 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 49 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 50 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 51 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 52 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 53 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 54 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 55 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 56 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 57 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 58 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 59 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 60 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 61 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 62 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 63 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 64 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 65 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 66 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 67 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 68 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 69 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 70 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 71 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 72 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 73 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 74 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 75 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 76 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 77 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 78 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 79 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 80 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 81 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 82 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 83 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 84 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 85 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 86 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 87 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 88 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 89 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 90 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 91 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 92 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 93 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 94 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 95 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 96 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 97 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 98 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 99 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
+ 	<li>Day 100 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a></li>
 </ul>
