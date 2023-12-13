@@ -2,512 +2,105 @@
 100 days to improve my coding skills with Python / 100 dias para melhorar minhas habilidades de código com Python
 
 '#100DaysOfCode'
-<table style="border-collapse: collapse; width: 100.465%; height: 2424px;">
-<tbody>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;" width="64"><strong>DAY</strong></td>
-<td style="width: 300px; text-align: center; height: 24px;" width="128"><strong>NAME</strong></td>
-<td style="text-align: center; height: 24px; width: 600px;" width="116"><strong>PROJECT LINK</strong></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">1</td>
-<td style="width: 300px; text-align: center; height: 24px;">Print into the World</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day1_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day1_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">2</td>
-<td style="width: 300px; text-align: center; height: 24px;">Getting to know your project</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">3</td>
-<td style="width: 300px; text-align: center; height: 24px;">The Ultimate Wacky Recipe Maker</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day3_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day3_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">4</td>
-<td style="width: 300px; text-align: center; height: 24px;">Everyone loves a good story!</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day4_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day4_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">5</td>
-<td style="width: 300px; text-align: center; height: 24px;">"Which character are you?" Generator</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">6</td>
-<td style="width: 300px; text-align: center; height: 24px;">Make your own login program</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day6_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day6_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">7</td>
-<td style="width: 300px; text-align: center; height: 24px;">Fake Fan Question Generator</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">8</td>
-<td style="width: 300px; text-align: center; height: 24px;">Affirmations (or insults) Generator</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">9</td>
-<td style="width: 300px; text-align: center; height: 24px;">Generation Generator</td>
-<td style="height: 24px; width: 600px;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb" rel="nofollow noopener noreferrer">https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb</a></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">10</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">11</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">12</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">13</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">14</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">15</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">16</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">17</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">18</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">19</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">20</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">21</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">22</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">23</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">24</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">25</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">26</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">27</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">28</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">29</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">30</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">31</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">32</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">33</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">34</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">35</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">36</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">37</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">38</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">39</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">40</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">41</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">42</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">43</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">44</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">45</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">46</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">47</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">48</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">49</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">50</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">51</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">52</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">53</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">54</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">55</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">56</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">57</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">58</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">59</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">60</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">61</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">62</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">63</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">64</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">65</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">66</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">67</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">68</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">69</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">70</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">71</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">72</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">73</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">74</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">75</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">76</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">77</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">78</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">79</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">80</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">81</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">82</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">83</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">84</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">85</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">86</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">87</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">88</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">89</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">90</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">91</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">92</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">93</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">94</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">95</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">96</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">97</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">98</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">99</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100px; text-align: center; height: 24px;">100</td>
-<td style="width: 300px; text-align: center; height: 24px;"></td>
-<td style="text-align: center; height: 24px; width: 600px;"></td>
-</tr>
-</tbody>
-</table>
+<ul>
+ 	<li>Day 1 - <strong>Print into the World</strong> - <span style="text-decoration: underline;"><a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day1_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day1_of_100days.ipynb</em></a></span></li>
+ 	<li>Day 2 - <strong>Getting to know your project</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day2_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 3 - <strong>The Ultimate Wacky Recipe Maker</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day3_of_100days.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day3_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 4 - <strong>Everyone loves a good story!</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day4_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day4_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 5 - <strong>"Which character are you?" Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day5_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 6 - <strong>Make your own login program</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day6_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day6_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 7 - <strong>Fake Fan Question Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day7_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 8 - <strong>Affirmations (or insults) Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day8_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 9 - <strong>Generation Generator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb</em></span></a></li>
+ 	<li>Day 10 -</li>
+ 	<li>Day 11 -</li>
+ 	<li>Day 12 -</li>
+ 	<li>Day 13 -</li>
+ 	<li>Day 14 -</li>
+ 	<li>Day 15 -</li>
+ 	<li>Day 16 -</li>
+ 	<li>Day 17 -</li>
+ 	<li>Day 18 -</li>
+ 	<li>Day 19 -</li>
+ 	<li>Day 20 -</li>
+ 	<li>Day 21 -</li>
+ 	<li>Day 22 -</li>
+ 	<li>Day 23 -</li>
+ 	<li>Day 24 -</li>
+ 	<li>Day 25 -</li>
+ 	<li>Day 26 -</li>
+ 	<li>Day 27 -</li>
+ 	<li>Day 28 -</li>
+ 	<li>Day 29 -</li>
+ 	<li>Day 30 -</li>
+ 	<li>Day 31 -</li>
+ 	<li>Day 32 -</li>
+ 	<li>Day 33 -</li>
+ 	<li>Day 34 -</li>
+ 	<li>Day 35 -</li>
+ 	<li>Day 36 -</li>
+ 	<li>Day 37 -</li>
+ 	<li>Day 38 -</li>
+ 	<li>Day 39 -</li>
+ 	<li>Day 40 -</li>
+ 	<li>Day 41 -</li>
+ 	<li>Day 42 -</li>
+ 	<li>Day 43 -</li>
+ 	<li>Day 44 -</li>
+ 	<li>Day 45 -</li>
+ 	<li>Day 46 -</li>
+ 	<li>Day 47 -</li>
+ 	<li>Day 48 -</li>
+ 	<li>Day 49 -</li>
+ 	<li>Day 50 -</li>
+ 	<li>Day 51 -</li>
+ 	<li>Day 52 -</li>
+ 	<li>Day 53 -</li>
+ 	<li>Day 54 -</li>
+ 	<li>Day 55 -</li>
+ 	<li>Day 56 -</li>
+ 	<li>Day 57 -</li>
+ 	<li>Day 58 -</li>
+ 	<li>Day 59 -</li>
+ 	<li>Day 60 -</li>
+ 	<li>Day 61 -</li>
+ 	<li>Day 62 -</li>
+ 	<li>Day 63 -</li>
+ 	<li>Day 64 -</li>
+ 	<li>Day 65 -</li>
+ 	<li>Day 66 -</li>
+ 	<li>Day 67 -</li>
+ 	<li>Day 68 -</li>
+ 	<li>Day 69 -</li>
+ 	<li>Day 70 -</li>
+ 	<li>Day 71 -</li>
+ 	<li>Day 72 -</li>
+ 	<li>Day 73 -</li>
+ 	<li>Day 74 -</li>
+ 	<li>Day 75 -</li>
+ 	<li>Day 76 -</li>
+ 	<li>Day 77 -</li>
+ 	<li>Day 78 -</li>
+ 	<li>Day 79 -</li>
+ 	<li>Day 80 -</li>
+ 	<li>Day 81 -</li>
+ 	<li>Day 82 -</li>
+ 	<li>Day 83 -</li>
+ 	<li>Day 84 -</li>
+ 	<li>Day 85 -</li>
+ 	<li>Day 86 -</li>
+ 	<li>Day 87 -</li>
+ 	<li>Day 88 -</li>
+ 	<li>Day 89 -</li>
+ 	<li>Day 90 -</li>
+ 	<li>Day 91 -</li>
+ 	<li>Day 92 -</li>
+ 	<li>Day 93 -</li>
+ 	<li>Day 94 -</li>
+ 	<li>Day 95 -</li>
+ 	<li>Day 96 -</li>
+ 	<li>Day 97 -</li>
+ 	<li>Day 98 -</li>
+ 	<li>Day 99 -</li>
+ 	<li>Day 100 -</li>
+</ul>
