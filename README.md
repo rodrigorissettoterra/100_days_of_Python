@@ -14,7 +14,7 @@
  	<li>Day 9 - <strong>Generation Generator</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day9_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 10 - <strong>Extend your bill calculator</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day10_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 11 - <strong>How many seconds are in a year?</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day11_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
- 	<li>Day 12 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
+ 	<li>Day 12 - <strong>Try and fix this code which is full of errors</strong> - <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day12_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 13 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 14 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 15 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
