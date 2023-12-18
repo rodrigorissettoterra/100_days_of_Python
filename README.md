@@ -20,7 +20,7 @@
  	<li>Day 15 - <strong>What animal do you want?</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day15_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 16 - <strong>Name the Lyrics</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day16_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 17 - <strong>Rock, Paper, Scissors</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day17_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
- 	<li>Day 18 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
+ 	<li>Day 18 - <strong>Guess the Number</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day18_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 19 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 20 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 21 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
