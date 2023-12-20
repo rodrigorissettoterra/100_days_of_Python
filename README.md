@@ -23,7 +23,7 @@
  	<li>Day 18 - <strong>Guess the Number</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day18_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 19 - <strong>Borrowing some money</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day19_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 20 - <strong>List Generator</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day20_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
- 	<li>Day 21 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
+ 	<li>Day 21 - <strong>Multiplication table game</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day21_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 22 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 23 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 24 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
