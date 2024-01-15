@@ -26,7 +26,7 @@
  	<li>Day 21 - <strong>Multiplication table game</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day21_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 22 - <strong>Totally Random One-Million-to-One</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day22_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 23 - <strong>Login System</strong> - To see the project, <a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day23_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
- 	<li>Day 24 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
+ 	<li>Day 24 - <strong>Infinity Dice 🎲</strong> - To see the project,<a href="https://github.com/rodrigorissettoterra/100_days_of_Python/blob/main/Day24_of_100days.ipynb" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>click here</em></span></a>.</li>
  	<li>Day 25 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 26 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
  	<li>Day 27 - <strong></strong> - <a href="" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em></em></span></a>.</li>
